@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcosp-8
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on apk's development and upgrading
 - 📫 How to reach me: paulmarkcoelho@gmail.com ; on twitter: @marcosp_lf .
 
